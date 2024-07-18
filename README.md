@@ -33,7 +33,8 @@ cd django-blog-app
 2. Create and activate a virtual environment:
 
 python -m venv task
-source Scripts/activate # On Windows, use `task\Scripts\activate.bat`
+
+On Windows, use `task\Scripts\activate.bat`
 
 3. Install the dependencies:
 
