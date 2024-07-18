@@ -24,7 +24,7 @@ This is a simple blog application built using Django and Django REST Framework, 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Abhi19980/NewTaskComp2.git
+git clone https://github.com/Abhi19980/CompanyTask.git
 cd django-blog-app
 
 
@@ -57,5 +57,9 @@ python manage.py runserver
    6. Comment List/Create: GET /api/posts/{post_id}/comments/, POST /api/posts/{post_id}/comments/
 
 7. Pytest testing
+
    1. pytest blog_app/tests/test_models.py
    2. pytest blog_app/tests/test_views.py
+
+8. I have shared the file (NewComp.postman_collection.json) in repo.
+   You can import this in postman.
